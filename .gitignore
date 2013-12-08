@@ -3,7 +3,6 @@
 #################
 
 *.jar
-*testdb/
 target/
 
 *.pydevproject
