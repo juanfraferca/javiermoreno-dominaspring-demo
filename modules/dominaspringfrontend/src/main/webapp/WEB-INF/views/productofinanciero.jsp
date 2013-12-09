@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>
-	Ficha
+	Ficha Cuenta Corriente
 </h1>
 
 <P>  Código: ${pf.codigo}. </P>
